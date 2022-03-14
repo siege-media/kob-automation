@@ -1,6 +1,8 @@
 # KOB Automation Using Apps Script
 A Google Apps Script Project Using the Custom Search API
 
+Raw Google sheet template here: https://docs.google.com/spreadsheets/d/1-t8hhnEkfIq7DkVb7rLgrLR06Ua1EtG-JNsGxSG-0qA/edit?usp=sharing
+
 ## Step 1: Create Cloud Project
 
 Inside your Google Cloud Dashboard project dropdown menu (console.cloud.google.com), select “New Project,” give your project a descriptive name, and once created, select this new project within your dropdown menu. 
