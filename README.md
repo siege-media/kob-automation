@@ -1,4 +1,4 @@
-# kob-automation
+# KOB Automation Using Apps Script
 A Google Apps Script Project Using the Custom Search API
 
 ## Step 1: Create Cloud Project
@@ -24,3 +24,4 @@ In the API & Services menu, select the “Credentials” view and “+ Create Cr
 
 While were at it, let’s create a Programmable Search Engine ID needed as a parameter in our API call: https://cse.google.com/all 
 
+You'll need these values available as environment variables when constructing the API query URL.
