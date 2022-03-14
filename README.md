@@ -3,11 +3,11 @@ A Google Apps Script Project Using the Custom Search API
 
 ## Step 1: Create Cloud Project
 
-Inside your Google Cloud Dashboard project dropdown menu, select “New Project,” give your project a descriptive name, and once created, select this new project within your dropdown menu. 
+Inside your Google Cloud Dashboard project dropdown menu (console.cloud.google.com), select “New Project,” give your project a descriptive name, and once created, select this new project within your dropdown menu. 
 
 ## Step 2: Enable Google Search API
 
-In the home menu, go to “APIs & Services” > Library. Search for “Custom Search API”
+In your Google cloud console home menu, go to “APIs & Services” > Library. Search for “Custom Search API”
 Note, you’ll only be able to query this API 100 times per day for free. The Custom Search Engine JSON API costs $5 per 1000 queries.
 
 You’ll now need to configure an “oAuth Consent Screen.” Select “Internal” or “External,” noting that an external app may be subject to more scrutiny/approval process from Google. You can also retroactively publish a project for external use so I’ll select “Internal” so that the tool can be used by anyone with a Siege Media email address and select “Create.”
